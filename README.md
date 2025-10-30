@@ -1,6 +1,6 @@
 # 🎓 Student Performance Pattern Clustering System
 
-<div align="center"> [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/student-performance-clustering)[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://claude.ai/chat/LICENSE)[![ML](https://img.shields.io/badge/ML-Unsupervised%20Learning-orange.svg)](https://claude.ai/chat/de6a77c4-512d-4298-8bff-5a071aa1a557#-features)[![Privacy](https://img.shields.io/badge/Privacy-Compliant-success.svg)](https://claude.ai/chat/de6a77c4-512d-4298-8bff-5a071aa1a557#-privacy--security)
+<div align="center"> ![Version](https://img.shields.io/badge/version-1.0.0-blue)![License](https://img.shields.io/badge/license-MIT-green)![ML](https://img.shields.io/badge/ML-Unsupervised%20Learning-orange)![Privacy](https://img.shields.io/badge/Privacy-Compliant-success)
 
 **An intelligent analytics platform leveraging unsupervised machine learning to identify at-risk learners through temporal behavioral analysis**
 
