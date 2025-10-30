@@ -1,7 +1,5 @@
 # 🎓 Student Performance Pattern Clustering System
 
-# 🎓 Student Performance Pattern Clustering System
-
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![ML](https://img.shields.io/badge/ML-Unsupervised%20Learning-orange) ![Privacy](https://img.shields.io/badge/Privacy-Compliant-success)
 
 **An intelligent analytics platform leveraging unsupervised machine learning to identify at-risk learners through temporal behavioral analysis**
