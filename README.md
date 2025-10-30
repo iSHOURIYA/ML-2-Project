@@ -312,7 +312,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://claud
 
 **Project Maintainer**: Shaurya Tayal , Shivam Garg , Ajay Kumar
 **Email**: ML-2-Project@github.io
-**GitHub**: [@yourusername](https://github.com/ishouriya)
+**GitHub**: [@ishouriya](https://github.com/ishouriya)
 
 ---
 
